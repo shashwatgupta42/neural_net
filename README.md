@@ -20,5 +20,11 @@ Cost function suitable to the task is used.
   
 - Supports regularization.
 
+For the mathematics used in this project, refer to - 
+- https://explained.ai/matrix-calculus/index.html
+- https://jonaslalin.com/2021/12/10/feedforward-neural-networks-part-1/
+- https://jonaslalin.com/2021/12/21/feedforward-neural-networks-part-2/
+- https://jonaslalin.com/2021/12/22/feedforward-neural-networks-part-3/
+
 Content - 
 - NN_framework.py
