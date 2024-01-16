@@ -13,7 +13,7 @@ In this project I have written a feed forward neural net framework which allows 
 1. Regression
 2. Binary Classification
 3. Multiclass Classification
-4. Multilabel Classification
+4. Multilabel Classification <br>
 Cost function suitable to the task is used.
 
 - Trains the parameters in a vectorized manner using Adaptive Moment Estimation (ADAM). The batch size can be determined. Supports learning rate decay as well.
